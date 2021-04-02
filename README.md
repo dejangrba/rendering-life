@@ -2,8 +2,8 @@
 # Rendering Life
 ## Transgressive Affinities Between Bio Art and Generative Art
 
-![Disnovation.org (Nicolas Maigret and Maria Roszkowska), Predictive Art Bot V3 (2017).](https://dejangrba.github.io/brittle-opacity/predictive-art-bot-v3_35243296642_o-1000px.png)
-Disnovation.org (Nicolas Maigret and Maria Roszkowska), _Predictive Art Bot V3_ (2017). Photo: Gabriel Asper, CC NC-SA 4.0.
+![Guy Ben-Ary, cellF (2015).](https://dejangrba.github.io/rendering-life/cellF.jpg)
+Guy Ben-Ary, _cellF_ (2015). Performing in the block theatre as part of the Patient exhibition, Sydney, 2016.
 
 ### Abstract
 In this paper we trace the analogies, parallels and affinities between bio-inspired generative art and bio art practices with strong generative flavor. We look at the creative and expressive features in these two fields, compare their shared interests in design and development of life, and discuss the strategies they apply to communicate and engage the audience. With respect to the existing literature, which primarily relates bio- and generative art within historical context, we compare these two fields focusing on generativity as a poetic driver. We indicate their shared impetus for rendering distinctive visions of nature that identify, contemplate or provoke dramatic changes in our era when biological processes become programmable, and living matter can be instrumentalized for various forms of labor. We also consider the epistemological and practical effectiveness of the two fields within a broader socio-technical perspective, which leads us to their constructive critique.
