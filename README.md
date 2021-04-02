@@ -71,6 +71,6 @@ V.A. 2020. &quot;Girih.&quot; Wikipedia page. [https://en.wikipedia.org/wiki/Gir
 
 Venter, J. Craig. 2014. _Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life_, 51-64 and passim. New York: Viking.
 
-Żmijewski, Artur. 2012. &quot;Artists Are Just as Capable of Setting the Same Chain of Events as Politicians.&quot; An interview with Joanna Warsza.&quot; Berlin: Das Magazin der Kulturstifrung des Bundes.
+Żmijewski, Artur. 2012. &quot;Artists Are Just as Capable of Setting the Same Chain of Events as Politicians.&quot; Interview by Joanna Warsza. Berlin: Das Magazin der Kulturstifrung des Bundes.
 
 Zurr, Ionat, and Oron Catts. 2005. &quot;Big Pigs, Small Wings: On Genohype and Artistic Autonomy.&quot; Culture Machine 7. [https://culturemachine.net/biopolitics/big-pigs-small-wings.](https://culturemachine.net/biopolitics/big-pigs-small-wings)
