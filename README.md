@@ -73,4 +73,4 @@ Venter, J. Craig. 2014. _Life at the Speed of Light: From the Double Helix to th
 
 Żmijewski, Artur. 2012. &quot;Artists Are Just as Capable of Setting the Same Chain of Events as Politicians.&quot; An interview with Joanna Warsza.&quot; Berlin: Das Magazin der Kulturstifrung des Bundes.
 
-Zurr, Ionat, and Oron Catts. 2005. &quot;Big Pigs, Small Wings: On Genohype and Artistic Autonomy.&quot; Culture Machine 7. [https://culturemachine.net/biopolitics/big-pigs-small-wings.](https://culturemachine.net/biopolitics/big-pigs-small-wings)[Dejan Grba and Vladimir Todorovic - 2021 - Rendering Life - Abstract and References.pdf](https://github.com/dejangrba/rendering-life/files/6250596/Dejan.Grba.and.Vladimir.Todorovic.-.2021.-.Rendering.Life.-.Abstract.and.References.pdf)
+Zurr, Ionat, and Oron Catts. 2005. &quot;Big Pigs, Small Wings: On Genohype and Artistic Autonomy.&quot; Culture Machine 7. [https://culturemachine.net/biopolitics/big-pigs-small-wings.](https://culturemachine.net/biopolitics/big-pigs-small-wings)
