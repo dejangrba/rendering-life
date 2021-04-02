@@ -13,7 +13,7 @@ __Keywords:__ Bio Art, Biotechnology, Evolution, Generative Art, Genetics, Natur
 ### References
 Agapakis, Christina. 2013. &quot;Selfmade.&quot; Christina Agapakis&#39; website. [https://www.agapakis.com/work/selfmade.](https://www.agapakis.com/work/selfmade)
 
-Agapakis, Christina. 2020. &quot;What Happens When Biology Becomes Technology.&quot; TED Talks website. [https://www.ted.com/talks/christina\_agapakis\_what\_happens\_when\_biology\_becomes\_technology.](https://www.ted.com/talks/christina\_agapakis\_what\_happens\_when\_biology\_becomes\_technology)
+Agapakis, Christina. 2020. &quot;What Happens When Biology Becomes Technology.&quot; TED Talks website. [https://www.ted.com/talks/christina\_agapakis.](https://www.ted.com/talks/christina\_agapakis\_what\_happens\_when\_biology\_becomes\_technology)
 
 Anker, Suzanne. 2014. &quot;The Beginnings and the Ends of Bio Art.&quot; ArtLink 14, vol 34 #3: 14-15.
 
@@ -63,7 +63,7 @@ Sommerer, Christa, and Laurent Mignonneau. 1999. &quot;Art as a Living System: I
 
 Stallabrass, Julian. 2006. _Contemporary Art: A Very Short Introduction_. Oxford: Oxford University Press.
 
-V.A. 2014. &quot;SynBio Standards: BioBrick.&quot; Archive.org website. [https://web.archive.org/web/20140327234019/http://ocw.metu.edu.tr/pluginfile.php/4339/mod\_resource/content/0/week3content.pdf.](https://web.archive.org/web/20140327234019/http://ocw.metu.edu.tr/pluginfile.php/4339/mod\_resource/content/0/week3content.pdf)
+V.A. 2014. &quot;SynBio Standards: BioBrick.&quot; Archive.org website. [https://web.archive.org/web/20140327234019.](https://web.archive.org/web/20140327234019/http://ocw.metu.edu.tr/pluginfile.php/4339/mod\_resource/content/0/week3content.pdf)
 
 V.A. 2019. _Art&#39;s Work in the Age of Biotechnology: Shaping Our Genetic Futures_, 64. NC State University Libraries.
 
