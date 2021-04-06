@@ -12,6 +12,7 @@ __Keywords:__ Bio Art, Biotechnology, Evolution, Generative Art, Genetics, Natur
 
 ### Publications
 4th Taboo, Transgression, Transcendence in Art and Science conference proceedings, University of Applied Arts Vienna, 2021.
+
 Technoetic Arts: A Journal of Speculative Research, Special TTT2020 Issue, 2021.
 
 ### Full Text
