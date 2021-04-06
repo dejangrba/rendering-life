@@ -11,8 +11,7 @@ In this paper we trace the analogies, parallels and affinities between bio-inspi
 __Keywords:__ Bio Art, Biotechnology, Evolution, Generative Art, Genetics, Nature, New Media Art.
 
 ### Publications
-4th Taboo, Transgression, Transcendence in Art and Science conference proceedings, University of Applied Arts Vienna, 2021.
-
+4th Taboo, Transgression, Transcendence in Art and Science conference proceedings, University of Applied Arts Vienna, 2021.  
 Technoetic Arts: A Journal of Speculative Research, Special TTT2020 Issue, 2021.
 
 ### Full Text
