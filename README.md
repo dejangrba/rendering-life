@@ -10,6 +10,13 @@ In this paper we trace the analogies, parallels and affinities between bio-inspi
 
 __Keywords:__ Bio Art, Biotechnology, Evolution, Generative Art, Genetics, Nature, New Media Art.
 
+### Publications
+4th Taboo, Transgression, Transcendence in Art and Science conference proceedings, University of Applied Arts Vienna, 2021.
+Technoetic Arts: A Journal of Speculative Research, Special TTT2020 Issue, 2021.
+
+### Full Text
+Will be available upon publication.
+
 ### References
 Agapakis, Christina. 2013. &quot;Selfmade.&quot; Christina Agapakis&#39; website. [https://www.agapakis.com/work/selfmade.](https://www.agapakis.com/work/selfmade)
 
