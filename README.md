@@ -6,13 +6,14 @@
 Guy Ben-Ary, _cellF_ (2015). Performing in the block theatre as part of the Patient exhibition, Sydney, 2016.
 
 ### Abstract
-In this paper we trace the analogies, parallels and affinities between bio-inspired generative art and bio art practices with strong generative flavor. We look at the creative and expressive features in these two fields, compare their shared interests in design and development of life, and discuss the strategies they apply to communicate and engage the audience. With respect to the existing literature, which primarily relates bio- and generative art within historical context, we compare these two fields focusing on generativity as a poetic driver. We indicate their shared impetus for rendering distinctive visions of nature that identify, contemplate or provoke dramatic changes in our era when biological processes become programmable, and living matter can be instrumentalized for various forms of labor. We also consider the epistemological and practical effectiveness of the two fields within a broader socio-technical perspective, which leads us to their constructive critique.
+In this article, we trace the analogies, parallels and affinities between bio-inspired generative art and bio art practices with strong generative flavor. We look at the creative and expressive features in these two fields, compare their shared interests in the design and development of life, and discuss the strategies they apply to communicate and engage the audience. With respect to the existing literature, which relates bio and generative art primarily within a historical context, we compare these two fields focusing on generativity as their common poetic driver. We indicate their shared impetus for rendering distinctive visions of nature in order to identify, contemplate or provoke dramatic changes in the era when biological processes become programmable and living matter can be instrumentalized for various forms of labor. We also examine the epistemological and practical effectiveness of the two fields within a broader socio-technical perspective, which leads us to their constructive critique.
 
 __Keywords:__ Bio Art, Biotechnology, Evolution, Generative Art, Genetics, Nature, New Media Art.
 
 ### Publications
-4th Taboo, Transgression, Transcendence in Art and Science conference proceedings, University of Applied Arts Vienna, 2021 (forthcoming).  
-Technoetic Arts: A Journal of Speculative Research, Special TTT2020 Issue, 2021 (forthcoming).
+_Technoetic Arts: A Journal of Speculative Research_, 2022, (18), 2&3: 223–238. [https://doi.org/10.1386/tear_00040_1](https://doi.org/10.1386/tear_00040_1) (forthcoming).
+
+4<sup>th</sup> Taboo, Transgression, Transcendence in Art and Science conference proceedings, University of Applied Arts Vienna, 2021.
 
 ### Full Text
 Will be available upon publication.
