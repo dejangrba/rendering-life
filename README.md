@@ -12,6 +12,7 @@ __Keywords:__ Bio Art, Biotechnology, Evolution, Generative Art, Genetics, Natur
 
 ### Publications
 _Technoetic Arts: A Journal of Speculative Research_, 2022, (18), 2&3: 223–238. [https://doi.org/10.1386/tear_00040_1](https://doi.org/10.1386/tear_00040_1) (forthcoming).
+
 4<sup>th</sup> Taboo, Transgression, Transcendence in Art and Science conference proceedings, University of Applied Arts Vienna, 2021.
 
 ### Full Text
